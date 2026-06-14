@@ -18,8 +18,8 @@ LinkedIn: https://www.linkedin.com/company/gatewaylabsnet/
 
 ## Focus
 
-- Azure DevOps release workflows
-- - Elastic and OpenSearch incident triage
-  - - API gateway 503 and timeout investigation
-    - - Private and hybrid production environments
-      - 
+- Incident clarity for DevOps, SRE, and platform teams
+- First-15-minute triage: source, query, recent change, handoff
+- Azure DevOps, Elastic/OpenSearch, API gateway, Terraform, and Kubernetes context
+- Private and hybrid environments where raw logs and credentials should stay local
+- Release safety with ConfigDiff after an incident points back to config or environment drift
