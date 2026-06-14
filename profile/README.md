@@ -16,6 +16,10 @@ Demo: https://gatewaylabs.net/demo
 Docs: https://gatewaylabs.net/docs
 LinkedIn: https://www.linkedin.com/company/gatewaylabsnet/
 
+## Public examples
+
+Signal incident clarity examples: https://github.com/Gatewaylabsnet/signal-incident-clarity-examples
+
 ## Focus
 
 - Incident clarity for DevOps, SRE, and platform teams
